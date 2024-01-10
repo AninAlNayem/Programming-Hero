@@ -1,0 +1,99 @@
+
+
+.banner {
+   
+   
+    /*background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);*/
+    background-color:black;
+    border-radius: 8px;
+   
+   
+  }
+  .centered {
+    position: absolute;
+    text-align: center;
+    font-size: 25px;
+    top: 25%;
+    left: 50%;
+    color:greenyellow;
+    font-family: Merriweather;
+    font-weight:bold;
+    
+}
+
+.larger{
+    position: absolute;
+    text-align: center;
+    font-size: 32px;
+    top: 30%;
+    left: 49%;
+    color:#070211;
+    font-family: Merriweather;
+    font-weight:bolder;
+    line-height: normal;
+}
+.id65{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.our{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 0;
+}
+.cat{
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.new{
+    margin: 10px 370px ;
+    width: 500px;
+    height: 500px;
+    flex-shrink: 0;
+}
+.new:hover{
+    padding: 2px;
+    border: 2px solid blue;
+}
+
+.back{
+   position:absolute;
+   padding: 10px;;
+   width: 1290px;
+   height: 200px;
+   flex-shrink: 0;
+   background-color: bisque;
+   text-align: center;
+   border-radius: 8px;
+}
+.red{
+    color:red;
+}
+.btn{
+    color: white;
+    background-color: #F00;
+    text-transform: uppercase;
+    border-radius: 8px;
+}
+.best{
+    margin: auto;
+    text-align: left;
+    color: red;
+}
+
